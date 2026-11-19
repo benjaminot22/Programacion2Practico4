@@ -517,7 +517,7 @@ MonoBehaviour:
   damage: 10
   player: {fileID: 7873680425236822117}
   detectionRadius: 5
-  speed: 8
+  speed: 5
 --- !u!50 &1592138489
 Rigidbody2D:
   serializedVersion: 5
@@ -3526,7 +3526,7 @@ MonoBehaviour:
   damage: 10
   player: {fileID: 7873680425236822117}
   detectionRadius: 5
-  speed: 8
+  speed: 5
 --- !u!50 &1802967674
 Rigidbody2D:
   serializedVersion: 5
@@ -3875,7 +3875,7 @@ MonoBehaviour:
   damage: 10
   player: {fileID: 7873680425236822117}
   detectionRadius: 5
-  speed: 8
+  speed: 5
 --- !u!50 &2122318573
 Rigidbody2D:
   serializedVersion: 5
@@ -4582,7 +4582,7 @@ MonoBehaviour:
   damage: 10
   player: {fileID: 7873680425236822117}
   detectionRadius: 5
-  speed: 8
+  speed: 5
 --- !u!50 &3325997830097029995
 Rigidbody2D:
   serializedVersion: 5
